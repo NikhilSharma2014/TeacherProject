@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\bin\Debug\TeacherRecords.dll
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\bin\Debug\TeacherRecords.pdb
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\obj\Debug\TeacherRecords.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\obj\Debug\TeacherRecords.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\obj\Debug\TeacherRecords.dll
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\TeacherRecords\obj\Debug\TeacherRecords.pdb
