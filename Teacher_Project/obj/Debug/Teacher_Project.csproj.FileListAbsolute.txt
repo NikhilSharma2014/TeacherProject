@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\obj\Debug\Teacher_Project.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\obj\Debug\Teacher_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\bin\Debug\Teacher_Project.exe.config
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\bin\Debug\Teacher_Project.exe
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\bin\Debug\Teacher_Project.pdb
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\bin\Debug\TeacherRecords.dll
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\bin\Debug\TeacherRecords.pdb
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\obj\Debug\Teacher_Project.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\obj\Debug\Teacher_Project.exe
+C:\Users\ASUS\Desktop\Projects\Training\OOPS\Teacher_Project\Teacher_Project\obj\Debug\Teacher_Project.pdb

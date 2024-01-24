@@ -1,15 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿// Program.cs in Console App
+using System;
+using TeacherRecords;
 
-namespace Teacher_Project
+namespace TeacherRecordsConsoleApp
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            TeacherManager teacherManager = new TeacherManager();
+
+            // Example data
+            teacherManager.AddTeacher(new Teacher { ID = 1, Name = "Anish", ClassSection = "Math-A" });
+            teacherManager.AddTeacher(new Teacher { ID = 2, Name = "Amit", ClassSection = "English-B" });
+
+            // Save to file
+            teacherManager.SaveToFile("MasterRecords.txt");
+
+            // Load from file
+            teacherManager.LoadFromFile("MasterRecords.txt");
+
+            // Print teachers
+            teacherManager.PrintTeachers();
+
+            Console.ReadLine();
         }
     }
 }
